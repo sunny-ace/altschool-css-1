@@ -45,12 +45,12 @@ gap: 10px
 .extra{
     grid-area : extra;
     background-color: #260ff1;
-    padding : 20px;
+    padding : 25px;  /*changed the padding to 25px */
 }
 
 .footer{
     grid-area : footer;
-    background-color: #f1c40f;
+    background-color: #ff6b6b; /*changed the background color to ff6b6b */
     padding : 20px;
 }
 
